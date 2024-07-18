@@ -1,9 +1,9 @@
-# RepoName
+# CAJViewer
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/CAJViewer
 ```
 
 ## Notes
